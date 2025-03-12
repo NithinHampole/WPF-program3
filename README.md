@@ -1,4 +1,4 @@
-WPF Program4
+3. WPF Program3
 </br>
 Create a program that allows the user to store student records using a dictionary. Each student should have:</br>
 ID (integer, unique)</br>
