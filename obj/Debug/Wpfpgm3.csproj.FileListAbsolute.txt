@@ -1,0 +1,14 @@
+C:\Users\Prodigy\source\repos\WPF1\WPF1\bin\Debug\WPF1.exe.config
+C:\Users\Prodigy\source\repos\WPF1\WPF1\bin\Debug\WPF1.exe
+C:\Users\Prodigy\source\repos\WPF1\WPF1\bin\Debug\WPF1.pdb
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\Wpfpgm3.csproj.AssemblyReference.cache
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\MainWindow.baml
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\MainWindow.g.cs
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\App.g.cs
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\WPF1_MarkupCompile.cache
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\WPF1.g.resources
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\WPF1.Properties.Resources.resources
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\Wpfpgm3.csproj.GenerateResource.cache
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\Wpfpgm3.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\WPF1.exe
+C:\Users\Prodigy\source\repos\WPF1\WPF1\obj\Debug\WPF1.pdb
